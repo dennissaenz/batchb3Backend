@@ -15,4 +15,3 @@ export default new GRAPHQL.GraphQLSchema({
         fields : mutations
     })
 })
-
